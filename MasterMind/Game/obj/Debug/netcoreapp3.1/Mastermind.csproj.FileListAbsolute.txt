@@ -1,0 +1,50 @@
+/Users/aaronpeterson/Downloads/Game 3/Game/obj/Debug/netcoreapp3.1/Mastermind.csprojAssemblyReference.cache
+/Users/aaronpeterson/Downloads/Game 3/Game/obj/Debug/netcoreapp3.1/Mastermind.AssemblyInfoInputs.cache
+/Users/aaronpeterson/Downloads/Game 3/Game/obj/Debug/netcoreapp3.1/Mastermind.AssemblyInfo.cs
+/Users/aaronpeterson/Downloads/Game 3/Game/obj/Debug/netcoreapp3.1/Mastermind.csproj.CoreCompileInputs.cache
+/Users/aaronpeterson/Downloads/Game 3/Game/bin/Debug/netcoreapp3.1/Mastermind.deps.json
+/Users/aaronpeterson/Downloads/Game 3/Game/bin/Debug/netcoreapp3.1/Mastermind.runtimeconfig.json
+/Users/aaronpeterson/Downloads/Game 3/Game/bin/Debug/netcoreapp3.1/Mastermind.runtimeconfig.dev.json
+/Users/aaronpeterson/Downloads/Game 3/Game/bin/Debug/netcoreapp3.1/Mastermind.dll
+/Users/aaronpeterson/Downloads/Game 3/Game/bin/Debug/netcoreapp3.1/Mastermind.pdb
+/Users/aaronpeterson/Downloads/Game 3/Game/obj/Debug/netcoreapp3.1/Mastermind.dll
+/Users/aaronpeterson/Downloads/Game 3/Game/obj/Debug/netcoreapp3.1/Mastermind.pdb
+/Users/aaronpeterson/Downloads/Game 3/Game/obj/Debug/netcoreapp3.1/Mastermind.genruntimeconfig.cache
+/Users/aaronpeterson/Desktop/Game 3/Game/bin/Debug/netcoreapp3.1/Mastermind.deps.json
+/Users/aaronpeterson/Desktop/Game 3/Game/bin/Debug/netcoreapp3.1/Mastermind.runtimeconfig.json
+/Users/aaronpeterson/Desktop/Game 3/Game/bin/Debug/netcoreapp3.1/Mastermind.runtimeconfig.dev.json
+/Users/aaronpeterson/Desktop/Game 3/Game/bin/Debug/netcoreapp3.1/Mastermind.dll
+/Users/aaronpeterson/Desktop/Game 3/Game/bin/Debug/netcoreapp3.1/Mastermind.pdb
+/Users/aaronpeterson/Desktop/Game 3/Game/obj/Debug/netcoreapp3.1/Mastermind.csprojAssemblyReference.cache
+/Users/aaronpeterson/Desktop/Game 3/Game/obj/Debug/netcoreapp3.1/Mastermind.AssemblyInfoInputs.cache
+/Users/aaronpeterson/Desktop/Game 3/Game/obj/Debug/netcoreapp3.1/Mastermind.AssemblyInfo.cs
+/Users/aaronpeterson/Desktop/Game 3/Game/obj/Debug/netcoreapp3.1/Mastermind.csproj.CoreCompileInputs.cache
+/Users/aaronpeterson/Desktop/Game 3/Game/obj/Debug/netcoreapp3.1/Mastermind.dll
+/Users/aaronpeterson/Desktop/Game 3/Game/obj/Debug/netcoreapp3.1/Mastermind.pdb
+/Users/aaronpeterson/Desktop/Game 3/Game/obj/Debug/netcoreapp3.1/Mastermind.genruntimeconfig.cache
+/Users/aaronpeterson/Desktop/School Work/AD 2011/MasterMind/Game/bin/Debug/netcoreapp3.1/Mastermind.deps.json
+/Users/aaronpeterson/Desktop/School Work/AD 2011/MasterMind/Game/bin/Debug/netcoreapp3.1/Mastermind.runtimeconfig.json
+/Users/aaronpeterson/Desktop/School Work/AD 2011/MasterMind/Game/bin/Debug/netcoreapp3.1/Mastermind.runtimeconfig.dev.json
+/Users/aaronpeterson/Desktop/School Work/AD 2011/MasterMind/Game/bin/Debug/netcoreapp3.1/Mastermind.dll
+/Users/aaronpeterson/Desktop/School Work/AD 2011/MasterMind/Game/bin/Debug/netcoreapp3.1/Mastermind.pdb
+/Users/aaronpeterson/Desktop/School Work/AD 2011/MasterMind/Game/obj/Debug/netcoreapp3.1/Mastermind.csprojAssemblyReference.cache
+/Users/aaronpeterson/Desktop/School Work/AD 2011/MasterMind/Game/obj/Debug/netcoreapp3.1/Mastermind.AssemblyInfoInputs.cache
+/Users/aaronpeterson/Desktop/School Work/AD 2011/MasterMind/Game/obj/Debug/netcoreapp3.1/Mastermind.AssemblyInfo.cs
+/Users/aaronpeterson/Desktop/School Work/AD 2011/MasterMind/Game/obj/Debug/netcoreapp3.1/Mastermind.csproj.CoreCompileInputs.cache
+/Users/aaronpeterson/Desktop/School Work/AD 2011/MasterMind/Game/obj/Debug/netcoreapp3.1/Mastermind.dll
+/Users/aaronpeterson/Desktop/School Work/AD 2011/MasterMind/Game/obj/Debug/netcoreapp3.1/Mastermind.pdb
+/Users/aaronpeterson/Desktop/School Work/AD 2011/MasterMind/Game/obj/Debug/netcoreapp3.1/Mastermind.genruntimeconfig.cache
+E:\Personal\School Work\AD 2011\MasterMind\Game\bin\Debug\netcoreapp3.1\Mastermind.exe
+E:\Personal\School Work\AD 2011\MasterMind\Game\bin\Debug\netcoreapp3.1\Mastermind.deps.json
+E:\Personal\School Work\AD 2011\MasterMind\Game\bin\Debug\netcoreapp3.1\Mastermind.runtimeconfig.json
+E:\Personal\School Work\AD 2011\MasterMind\Game\bin\Debug\netcoreapp3.1\Mastermind.runtimeconfig.dev.json
+E:\Personal\School Work\AD 2011\MasterMind\Game\bin\Debug\netcoreapp3.1\Mastermind.dll
+E:\Personal\School Work\AD 2011\MasterMind\Game\bin\Debug\netcoreapp3.1\Mastermind.pdb
+E:\Personal\School Work\AD 2011\MasterMind\Game\obj\Debug\netcoreapp3.1\Mastermind.csproj.AssemblyReference.cache
+E:\Personal\School Work\AD 2011\MasterMind\Game\obj\Debug\netcoreapp3.1\Mastermind.GeneratedMSBuildEditorConfig.editorconfig
+E:\Personal\School Work\AD 2011\MasterMind\Game\obj\Debug\netcoreapp3.1\Mastermind.AssemblyInfoInputs.cache
+E:\Personal\School Work\AD 2011\MasterMind\Game\obj\Debug\netcoreapp3.1\Mastermind.AssemblyInfo.cs
+E:\Personal\School Work\AD 2011\MasterMind\Game\obj\Debug\netcoreapp3.1\Mastermind.csproj.CoreCompileInputs.cache
+E:\Personal\School Work\AD 2011\MasterMind\Game\obj\Debug\netcoreapp3.1\Mastermind.dll
+E:\Personal\School Work\AD 2011\MasterMind\Game\obj\Debug\netcoreapp3.1\Mastermind.pdb
+E:\Personal\School Work\AD 2011\MasterMind\Game\obj\Debug\netcoreapp3.1\Mastermind.genruntimeconfig.cache
